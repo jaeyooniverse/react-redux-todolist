@@ -4,7 +4,8 @@
   "description": "TDD로 react, redux를 사용하여 만든 todolist",
   "main": "index.js",
   "scripts": {
-    "dev": "webpack-dev-server --mode development"
+    "dev": "webpack-dev-server --mode development",
+    "test": "jest"
   },
   "author": "jaeyooniverse",
   "license": "ISC",
